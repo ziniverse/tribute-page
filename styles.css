@@ -1,0 +1,19 @@
+img {
+    display: block
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  body {
+    font-family: 'Open Sans', sans-serif;
+    background: #d5d5d5;
+  }
+  #img-caption {
+    font-size: 80%;
+  }
+  #tribute-info {
+    font-weight: bold;
+    font-size: 110%;
+  }
+  
